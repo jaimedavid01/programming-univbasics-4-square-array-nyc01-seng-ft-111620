@@ -8,5 +8,4 @@ while counter < array.length do
   puts new_array
 counter +=1 
 end
-new_array
 end
